@@ -1,0 +1,82 @@
+{
+    "injuries": {
+      "burn": {
+        "synonyms": ["burnt", "scald"],
+        "category": "Heat/Chemical",
+        "summary": "Immediate cooling of the affected area to minimize tissue damage.",
+        "critical": false,
+        "instructions": [
+          "First, immediately cool the burn under cool or lukewarm running water for at least 20 minutes. Do not use ice, iced water, or any greasy substances like butter.",
+          "Next, gently remove any jewelry or clothing from the burn area, unless it's stuck to the skin.",
+          "Then, cover the burn with a layer of cling film or a clean, sterile dressing to protect it from infection.",
+          "Finally, take over-the-counter painkillers like paracetamol or ibuprofen to manage the pain if necessary.",
+          "You should seek medical advice if the burn is large, deep, on the face or hands, or if it's a chemical or electrical burn."
+        ]
+      },
+      "nosebleed": {
+        "synonyms": ["bloody nose", "bleeding nose"],
+        "category": "Bleeding",
+        "summary": "Apply pressure and lean forward to control bleeding.",
+        "critical": false,
+        "instructions": [
+          "First, sit down and firmly pinch the soft part of your nose, just above your nostrils, for 10 to 15 minutes without interruption.",
+          "Next, lean forward and breathe through your mouth. This ensures blood drains out of your nose instead of down the back of your throat.",
+          "Then, place an ice pack, wrapped in a towel, on the bridge of your nose. This can help constrict blood vessels.",
+          "After 15 minutes, release the pressure and check if the bleeding has stopped. If not, repeat the process.",
+          "For 24 hours after the nosebleed, avoid blowing your nose, heavy lifting, or activities that could cause it to restart."
+        ]
+      },
+      "sprain": {
+        "synonyms": ["twist", "twisted", "ankle", "wrist", "joint"],
+        "category": "Musculoskeletal",
+        "summary": "Use the R.I.C.E. method: Rest, Ice, Compression, and Elevation.",
+        "critical": false,
+        "instructions": [
+          "For the first 48-72 hours, follow the R.I.C.E. method. First is Rest. Avoid putting weight on the injured joint.",
+          "Second is Ice. Apply an ice pack, wrapped in a towel, to the injury for 15-20 minutes every two to three hours.",
+          "Third is Compression. Use an elastic compression bandage to wrap the injured area. It should be snug but not tight enough to cut off circulation.",
+          "Fourth is Elevation. Keep the injured limb raised above the level of your heart whenever possible, especially when resting.",
+          "Avoid heat, such as hot baths or heat packs, for the first 72 hours as this can increase swelling."
+        ]
+      },
+      "cut": {
+        "synonyms": ["laceration", "graze", "wound", "scrape", "scratch"],
+        "category": "Bleeding",
+        "summary": "Clean the wound and apply direct pressure to stop bleeding.",
+        "critical": false,
+        "instructions": [
+          "First, stop the bleeding by applying firm, direct pressure to the wound with a clean cloth or bandage for several minutes.",
+          "Next, clean the wound thoroughly. Rinse it with clean water. Use soap to clean the area around the wound, but try to keep soap out of the cut itself.",
+          "Then, apply a thin layer of an antiseptic cream to help prevent infection.",
+          "Finally, cover the wound with a sterile bandage. Change the dressing daily or whenever it becomes wet or dirty.",
+          "Seek medical attention if the cut is deep, won't stop bleeding, has dirt that won't come out, or was caused by a rusty or dirty object."
+        ]
+      },
+      "sting": {
+        "synonyms": ["bee sting", "insect bite", "bite"],
+        "category": "Bites & Stings",
+        "summary": "Remove the stinger, clean the area, and apply a cold pack.",
+        "critical": false,
+        "instructions": [
+          "First, if the stinger is visible in the skin, remove it immediately by scraping it out sideways with a credit card or your fingernail. Do not use tweezers as this can squeeze more venom into the skin.",
+          "Next, wash the affected area with soap and water.",
+          "Then, apply a cold pack or a cloth filled with ice to the area for at least 10 minutes to reduce pain and swelling.",
+          "If the sting is on an arm or leg, try to keep it elevated.",
+          "Watch for signs of a severe allergic reaction, such as difficulty breathing, swelling of the face or mouth, or dizziness. If you see these signs, call for emergency medical help immediately."
+        ]
+      },
+      "choking": {
+        "synonyms": ["can't breathe", "something stuck", "blocked airway"],
+        "category": "Breathing",
+        "summary": "Encourage coughing, followed by back blows and abdominal thrusts (Heimlich maneuver).",
+        "critical": true,
+        "instructions": [
+          "First, determine if the person can speak, cough, or breathe. If they can, encourage them to keep coughing to clear the blockage.",
+          "If the person cannot cough or is making silent, gasping motions, you must act. Stand behind them and lean them slightly forward.",
+          "Give 5 firm back blows between their shoulder blades with the heel of your hand.",
+          "If that doesn't work, perform 5 abdominal thrusts, also known as the Heimlich maneuver. Place your arms around their waist, make a fist, and place it just above their navel. Grasp your fist with your other hand and pull sharply inwards and upwards.",
+          "Continue alternating between 5 back blows and 5 abdominal thrusts until the blockage is dislodged or emergency help arrives. If the person becomes unconscious, start CPR."
+        ]
+      }
+    }
+  }
